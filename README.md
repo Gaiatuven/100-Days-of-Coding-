@@ -21,15 +21,15 @@ Welcome to my "100 Days of Coding" project repository! This repository contains 
 - File: `Central_Park_Squirrel_Census`
 
 ### 6. Coding Rooms
-- Description: 
+- Description: Coding challenges during Coding days
 - File: `Coding Rooms`
 
 ### 7. CoffeeMachine
-- Description: (Description of what this project does)
+- Description: Takes user input selects from a list of coffee,  add amount and prints out the order. 
 - File: `CoffeeMachine`
 
 ### 8. Feet_inches
-- Description: (Description of what this project does)
+- Description: Takes user input from feet and inches 
 - File: `Feet_inches`
 
 ### 9. FIzzBuzz.py
@@ -37,11 +37,11 @@ Welcome to my "100 Days of Coding" project repository! This repository contains 
 - File: `FIzzBuzz.py`
 
 ### 10. Flash-card-project
-- Description: (Description of what this project does)
+- Description: User is provided with a list of French words flashed in turns the English translation, Pandas module was used in the program.
 - File: `Flash-card-project`
 
 ### 11. Hangman
-- Description: (Description of what this project does)
+- Description: Basic implementation of Hangman
 - File: `Hangman`
 
 ### 12. higherLower2.py
@@ -57,43 +57,39 @@ Welcome to my "100 Days of Coding" project repository! This repository contains 
 - File: `Milestometers`
 
 ### 15. Monday_motivation
-- Description: (Description of what this project does)
+- Description: Send a random motivation to yourself on a Monday. 
 - File: `Monday_motivation`
 
 ### 16. PaintCalc.py
-- Description: (Description of what this project does)
+- Description: Calculates the paint requeset for a set area to paint.
 - File: `PaintCalc.py`
 
 ### 17. PasswordGenerator.py
-- Description: (Description of what this project does)
+- Description: Basic password generator. 
 - File: `PasswordGenerator.py`
 
 ### 18. password-manager-start
-- Description: (Description of what this project does)
+- Description: Basic tkinter password-manager.
 - File: `password-manager-start`
 
 ### 19. PizzaHub.py
-- Description: (Description of what this project does)
+- Description: Basic user input pizza order program.
 - File: `PizzaHub.py`
 
 ### 20. pomodoro-start
-- Description: (Description of what this project does)
+- Description: Tkinter implementation of `Pomodoro" program, study for 25 minutes, 5 minute break.  
 - File: `pomodoro-start`
 
-### 21. Tkinter
-- Description: (Description of what this project does)
-- File: `Tkinter`
-
-### 22. Tip Calculator
-- Description: (Description of what this project does)
+### 21. Tip Calculator
+- Description: Basic implementation of a tip calculator.
 - File: `Tip Calculator`
 
-### 23. Us States
-- Description: (Description of what this project does)
+### 22. Us States
+- Description: Turtle implementation of guess US States, Pandas, and csv was used in the program. 
 - File: `Us States`
 
-### 24. WordGame
-- Description: (Description of what this project does)
+### 23. WordGame
+- Description: Basic implementation of a word game. 
 - File: `WordGame`
 
 Feel free to explore these projects and scripts. If you have any questions or suggestions, please don't hesitate to reach out to me.
